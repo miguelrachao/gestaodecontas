@@ -1,0 +1,19 @@
+  /* alert information*/ 
+
+.alert {
+    width: 100%;
+	font-weight: bold;
+	margin:0px;
+}
+.alert.error {
+    color: #f44336;
+}
+.alert.success {
+     color: #4CAF50;
+}
+.alert.info {
+    color: #2196F3;
+}
+.alert.warning {
+    color: #ff9800;
+}
