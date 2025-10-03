@@ -11,3 +11,6 @@ Instalação:
     -criar base de dados com o .sql contido na pasta BD.
 
 Testado com php 7.3 e mysql 5.1 em Microsoft-IIS/10.0
+
+Versão descontinuada. 
+Nova versão: https://github.com/miguelrachao/gestaodecontaspro
